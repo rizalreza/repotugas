@@ -1,6 +1,9 @@
 # repotugas
 repo tugas refactory terdiri dari [singel-workflow](https://github.com/hudabikhoir/repotugas/blob/master/single-workflow.md) dan [team-workflow](https://github.com/hudabikhoir/repotugas/blob/master/team-workflow.md)
+<<<<<<< HEAD
 
+=======
+>>>>>>> upstream/master
 
 **How To Install Git with Apt:**
 
@@ -14,5 +17,9 @@ sudo apt-get install git
 ``` markup
     sudo apt-get update
     sudo apt-get install build-essential libssl-dev libcurl4-gnutls-dev libexpat1-dev gettext unzip
+<<<<<<< HEAD
 ```
 
+=======
+```
+>>>>>>> upstream/master
