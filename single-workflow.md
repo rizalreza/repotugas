@@ -14,4 +14,8 @@
 9. the last.. typing _git push origin folderlatihan
 
 .. until this step.. you finished upload your project on github.. 
-then.. go to your web github on your account ,.. and refresh it.aku ngedit seng iki wooooy
+then.. go to your web github on your account ,.. and refresh it.
+
+
+conflict
+
