@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## **TEAM WORKFLOW **
 
 ####**How To Contribute to a project on github
@@ -8,3 +9,6 @@
    Example : [https://github.com/hudabikhoir/repotugas.git](https://github.com/hudabikhoir/repotugas.git)
 4. Clone the fork on your local machine.
 
+=======
+## **IT'S WORKFLOW FILE**
+>>>>>>> df73efd0c9c56f71ef8fb5ffbe0d8c9ca3b8b839
